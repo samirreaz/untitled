@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567868439189",
+    "project_id": "student-auth-afad9",
+    "storage_bucket": "student-auth-afad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567868439189:android:a755e8786d7506b382399c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567868439189-c9fccvip6a78tfga1a7lp79c3k3ugf2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_5vZPak_HZRXpL9IVa2Z_Yff3n2zJjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567868439189-c9fccvip6a78tfga1a7lp79c3k3ugf2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
